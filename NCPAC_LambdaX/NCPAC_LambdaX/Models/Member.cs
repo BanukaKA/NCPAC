@@ -216,6 +216,7 @@ namespace NCPAC_LambdaX.Models
         [RegularExpression("^\\d{10}$", ErrorMessage = "Please enter a valid 10-digit phone number (no spaces).")]
         [DataType(DataType.PhoneNumber)]
         [StringLength(10)]
+        [Display(Name = "Work Phone")]
         public string? WorkPhone { get; set; }
 
         [RegularExpression(@"^[a-zA-Z0-9.!#$%&'*+/=?^_`{|}~-]+@[a-zA-Z0-9-]+(?:\.[a-zA-Z0-9-]+)*$", ErrorMessage = "Invalid Email Address.")]
