@@ -6,7 +6,7 @@ This is a project involved with the Niagara College Canada.
 
 Group Members
 	-Banuka Ambegoda 
-	-Adam AUgier 
+	-Adam Augier 
 	-Ravisanka Siriwardenage 
 	-Amritpal Singh 
 	-Akashdeep Slatch 
